@@ -1,38 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed network card in server 007",
+      "message": "This was ACTUALLY added through Redux :o",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2019-05-31T15:46:10.179Z"
+      "tech": "Sara Wilson",
+      "date": "2020-04-06T14:51:48.735Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Fixed hard drive on workstation 002",
-      "attention": false,
+      "message": "What's up homie",
+      "attention": true,
       "tech": "John Doe",
-      "date": "2019-05-31T16:18:04.245Z"
+      "date": "2020-04-06T14:52:34.340Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "message": "1122 wireless down",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z"
-    },
-    {
-      "id": 4,
-      "message": "Workstation 026 is up and running",
+      "message": "Doobie Dogg is the cooliest",
       "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
-    },
-    {
-      "message": "This is just a test to see if this Shizz works",
-      "attention": true,
-      "tech": "Sam Smith",
-      "id": 5
+      "tech": "Will Koste",
+      "date": "2020-04-06T14:52:50.310Z",
+      "id": 3
     }
   ],
   "techs": [
