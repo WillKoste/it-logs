@@ -1,18 +1,18 @@
 {
   "logs": [
     {
+      "id": 1,
       "message": "This was ACTUALLY added through Redux :o",
       "attention": false,
       "tech": "Sara Wilson",
-      "date": "2020-04-06T14:51:48.735Z",
-      "id": 1
+      "date": "2020-04-06T15:38:56.695Z"
     },
     {
-      "message": "What's up homie",
+      "id": 2,
+      "message": "What's up homie you are my #1",
       "attention": true,
       "tech": "John Doe",
-      "date": "2020-04-06T14:52:34.340Z",
-      "id": 2
+      "date": "2020-04-06T15:38:30.527Z"
     },
     {
       "message": "Doobie Dogg is the cooliest",
