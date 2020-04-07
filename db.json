@@ -15,11 +15,11 @@
       "date": "2020-04-06T15:38:30.527Z"
     },
     {
-      "message": "Doobie Dogg is the cooliest",
-      "attention": false,
+      "message": "Hey",
+      "attention": true,
       "tech": "Will Koste",
-      "date": "2020-04-06T14:52:50.310Z",
-      "id": 3
+      "date": "2020-04-07T11:40:36.087Z",
+      "id": 4
     }
   ],
   "techs": [
